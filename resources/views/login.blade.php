@@ -47,15 +47,17 @@
                             <div class="mb-0">
                                 {{-- <label for="password" class="block mb-2 text-lg font-medium text-gray-900 dark:text-black font-Kanit">Password</label> --}}
                                 <input type="password" id="password" class="font- font-Kanit bg-gray-50 border-2 border-black text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-white dark:border-gray-600 dark:placeholder-gray-400 dark:text-black dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Masukan password kamu..." required />
+                                <div class="flex justify-end">
+                                    <h1 class="text-sm text-sky-600 cursor-pointer mb-0 mt-2"><a href="forgetpassword">Forget Password?</a></h1>
+                                </div>
+                                <div class="-pt-2">
+                                    <button type="submit" class="font-Kanit  text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-semibold rounded-lg text-base w-full sm:w-auto px-8 py-2.5 text-center dark:bg-secondery dark:hover:bg-secondery dark:focus:ring-sky-400 dark:focus:ring-2 hover:shadow-lg hover:opacity-80 transistion duration-300 ease-in-out">Login</button>
+                                </div>
                             </div>
-                            <div class="flex justify-end">
-                                <h1 class="text-sm text-sky-600 cursor-pointer mb-0"><a href="#">Forget Password?</a></h1>
-                            </div>
-                            <button type="submit" class="font-Kanit  text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-base w-full sm:w-auto px-5 py-2.5 text-center dark:bg-secondery dark:hover:bg-secondery dark:focus:ring-sky-400">Login</button>
                         </div>
                     </form>
-                    <div class="flex justify-center mt-4">
-                        <h1 class="cont">Belum memiliki akun? <a href="#"><span class="cursor-pointer underline">Daftar disini</span></a></h1>
+                    <div class="flex justify-center mt-16">
+                        <h1>Belum memiliki akun? <a href="#"><span class="cursor-pointer underline">Daftar disini</span></a></h1>
                     </div>
                 </div>
             </div>
