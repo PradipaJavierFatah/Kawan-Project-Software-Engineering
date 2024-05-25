@@ -32,3 +32,11 @@ Route::get('/forgetpassword', function () {
 Route::get('/daftarakun', function () {
     return view('daftarakun');
 });
+
+Route::get('/daftarakun-2', function () {
+    return view('daftarakun-2');
+});
+
+Route::get('/daftarakun-3', function () {
+    return view('daftarakun-3');
+});

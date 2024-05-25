@@ -24,18 +24,19 @@
     
             <div class="flex flex-wrap justify-center">
                 <div class="w-full px-4 lg:w-1/2 xl:w-1/3">
-                    <div class="bg-white rounded-xl shadow-lg overflow-hidden mb-10 border-2 border-black">
+                    <div class="bg-white rounded-xl shadow-lg overflow-hidden mb-6 border-2 border-black">
                         <div class="py-8 px-8">
                             <img src="asset/statusbar-1.png" alt="" class="mx-auto flex justify-center pb-2">
                             <div class="mb-0">
                                 <label for="name" class="block text-lg font-medium text-gray-900 dark:text-black font-Kanit">Nama</label>
-                                <input type="email" id="email" class="font-Kanit bg-gray-50 border-2 border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-white dark:border-gray-600 dark:placeholder-gray-400 dark:text-black dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Masukan email kamu..." required />
-    
+                                <input type="text" id="nama" class="font-Kanit bg-gray-50 border-2 border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-white dark:border-gray-600 dark:placeholder-gray-400 dark:text-black dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Masukan nama kamu..." required />
+                                
+
                                 <label for="text" class="block text-lg font-medium text-gray-900 dark:text-black font-Kanit">Tempat Lahir</label>
-                                <input type="text" id="email" class="font-Kanit bg-gray-50 border-2 border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-white dark:border-gray-600 dark:placeholder-gray-400 dark:text-black dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Asal kelahiran..." required />
+                                <input type="text" id="tempatlahir" class="font-Kanit bg-gray-50 border-2 border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-white dark:border-gray-600 dark:placeholder-gray-400 dark:text-black dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Asal kelahiran..." required />
     
                                 <label for="date" class="block text-lg font-medium text-gray-900 dark:text-black font-Kanit">Tanggal Lahir</label>
-                                <input type="text" id="email" class="font-Kanit bg-gray-50 border-2 border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-white dark:border-gray-600 dark:placeholder-gray-400 dark:text-black dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="DD/MM/YY" required />
+                                <input type="text" id="tanggallahir" class="font-Kanit bg-gray-50 border-2 border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-white dark:border-gray-600 dark:placeholder-gray-400 dark:text-black dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="DD/MM/YY" required />
     
                                 <label for="button" class="block text-lg font-medium text-gray-900 dark:text-black font-Kanit mb-2">Jenis Kelamin</label>
                                 <div class="flex justify-between mb-2 pr-36">
@@ -50,13 +51,18 @@
                                 </div>
 
                                 <div class="flex justify-center pt-4">
-                                    <button type="submit" class="font-Kanit  text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-semibold rounded-lg text-base w-full sm:w-auto px-8 py-2.5 text-center dark:bg-secondery dark:hover:bg-secondery dark:focus:ring-sky-400 dark:focus:ring-2 hover:shadow-lg hover:opacity-80 transistion duration-300 ease-in-out">Next</button>
+                                    <a href="daftarakun-2">
+                                        <button type="submit" class="font-Kanit  text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-semibold rounded-lg text-base w-full sm:w-auto px-8 py-2.5 text-center dark:bg-secondery dark:hover:bg-secondery dark:focus:ring-sky-400 dark:focus:ring-2 hover:shadow-lg hover:opacity-80 transistion duration-300 ease-in-out">Next</button>
+                                    </a>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+        </div>
+        <div class="flex justify-center">
+            <h1>Sudah punya akun? <a href="login"><span class="cursor-pointer underline">Login disini</span></a></h1>
         </div>
     </section>
     
