@@ -25,13 +25,12 @@
         z-index: -100;
     }
 </style> --}}
-
 </head>
 
 <body>
     <div class=" hidden md:block absolute inset-y-0 right-0 w-1/2 bg-primary z-0"></div>
     
-    {{-- Tes coba end--}}
+    {{-- Login Start --}}
     <section id="Login" class="pt-32 pb-0">
         <div class="container mx-auto flex">
             <div class="w-full lg:w-1/2 px-4">
@@ -66,10 +65,7 @@
             </div>
         </div>
     </section>
-    
-    
-
-    {{-- Tes End --}}
+    {{-- Login End --}}
 </body>
 
 </html>

@@ -5,7 +5,8 @@ module.exports = {
     "./resources/**/*.js",
     "./resources/**/*.vue",
     "./resources/testing.blade.php",
-    "./resources/forgatepassword.blade.php"
+    "./resources/forgatepassword.blade.php",
+    "./resources/daftarakun.blade.php"
   ],
   theme: {
     extend: {

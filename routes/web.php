@@ -28,3 +28,7 @@ Route::get('/testing', function () {
 Route::get('/forgetpassword', function () {
     return view('forgetpassword');
 });
+
+Route::get('/daftarakun', function () {
+    return view('daftarakun');
+});
