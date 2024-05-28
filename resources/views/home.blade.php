@@ -79,19 +79,19 @@
                 </div>
                 <div class="flex justify-center space-x-6 font-medium mb-8">
                     <a href="/KawanWEB/mentoring.html" class="bg-gray-200 flex flex-col items-center py-2 px-4 w-40 rounded shadow-lg hover:bg-[#F9C5D5]">
-                        <img src="/KawanWEB/PhotoProperty/image 15.png" alt="Services" class="w-16 h-16 mb-2">
+                        <img src="asset/home/image 15.png" alt="Services" class="w-16 h-16 mb-2">
                         Mentoring
                     </a>
                     <a href="/KawanWEB/consult.html" class="bg-gray-200 flex flex-col items-center py-2 px-4 w-40 rounded shadow-lg hover:bg-[#F9C5D5]">
-                        <img src="/KawanWEB/PhotoProperty/image 15.png" alt="Services" class="w-16 h-16 mb-2">
+                        <img src="asset/home/image 15.png" alt="Services" class="w-16 h-16 mb-2">
                         Consulting
                     </a>
                     <a href="#" class="bg-gray-200 flex flex-col items-center py-2 px-4 w-40 rounded shadow-lg hover:bg-[#F9C5D5]">
-                        <img src="/KawanWEB/PhotoProperty/image 15.png" alt="Services" class="w-16 h-16 mb-2">
+                        <img src="asset/home/image 15.png" alt="Services" class="w-16 h-16 mb-2">
                         Personality Test
                     </a>
                     <a href="#" class="bg-gray-200 flex flex-col items-center py-2 px-4 w-40 rounded shadow-lg hover:bg-[#F9C5D5]">
-                        <img src="/KawanWEB/PhotoProperty/image 15.png" alt="Services" class="w-16 h-16 mb-2">
+                        <img src="asset/home/image 15.png" alt="Services" class="w-16 h-16 mb-2">
                         Stress Test
                     </a>
                 </div>
@@ -121,7 +121,7 @@
                     <div class="card p-5">
                         <div class="rounded-xl bg-gray-200 p-5 flex-col">
                             <div class="rounded-xl overflow-hidden">
-                                <img src="/KawanWEB/PhotoProperty/artikel-cover.jpg" alt="Article">
+                                <img src="asset/home/artikel-cover.jpg" alt="Article">
                             </div>
                             <h4 class="text-2xl md:text-3xl font-medium mt-3">Article - Article Title</h4>
                             <p class="text-black text-lg text-justify my-3">
@@ -135,7 +135,7 @@
                     <div class="card p-5">
                         <div class="rounded-xl bg-gray-200 p-5 flex-col">
                             <div class="rounded-xl overflow-hidden">
-                                <img src="/KawanWEB/PhotoProperty/artikel-cover.jpg" alt="Article">
+                                <img src="asset/home/artikel-cover.jpg" alt="Article">
                             </div>
                             <h4 class="text-2xl md:text-3xl font-medium mt-3">Article - Article Title</h4>
                             <p class="text-black text-lg text-justify my-3">
@@ -149,7 +149,7 @@
                     <div class="card p-5">
                         <div class="rounded-xl bg-gray-200 p-5 flex-col">
                             <div class="rounded-xl overflow-hidden">
-                                <img src="/KawanWEB/PhotoProperty/artikel-cover.jpg" alt="Article">
+                                <img src="asset/home/artikel-cover.jpg" alt="Article">
                             </div>
                             <h4 class="text-2xl md:text-3xl font-medium mt-3">Article - Article Title</h4>
                             <p class="text-black text-lg text-justify my-3">
@@ -163,7 +163,7 @@
                     <div class="card p-5">
                         <div class="rounded-xl bg-gray-200 p-5 flex-col">
                             <div class="rounded-xl overflow-hidden">
-                                <img src="/KawanWEB/PhotoProperty/artikel-cover.jpg" alt="Article">
+                                <img src="asset/home/artikel-cover.jpg" alt="Article">
                             </div>
                             <h4 class="text-2xl md:text-3xl font-medium mt-3">Article - Article Title</h4>
                             <p class="text-black text-lg text-justify my-3">
@@ -195,7 +195,7 @@
                         </p>
                     </blockquote>
                     <div class="flex items-center justify-center">
-                        <img src="/KawanWEB/PhotoProperty/profile.png" alt="User Profile" class="rounded-full w-12 h-12">
+                        <img src="asset/home/profile.png" alt="User Profile" class="rounded-full w-12 h-12">
                         <div class="flex flex-col space-y-0.5 font-medium text-left ms-3">
                             <span>Name</span>
                             <span class="text-sm">Job</span>
@@ -213,7 +213,7 @@
                         </p>
                     </blockquote>
                     <div class="flex items-center justify-center">
-                        <img src="/KawanWEB/PhotoProperty/profile.png" alt="User Profile" class="rounded-full w-12 h-12">
+                        <img src="asset/home/profile.png" alt="User Profile" class="rounded-full w-12 h-12">
                         <div class="flex flex-col space-y-0.5 font-medium text-left ms-3">
                             <span>Name</span>
                             <span class="text-sm">Job</span>
@@ -231,7 +231,7 @@
                         </p>
                     </blockquote>
                     <div class="flex items-center justify-center">
-                        <img src="/KawanWEB/PhotoProperty/profile.png" alt="User Profile" class="rounded-full w-12 h-12">
+                        <img src="asset/home/profile.png" alt="User Profile" class="rounded-full w-12 h-12">
                         <div class="flex flex-col space-y-0.5 font-medium text-left ms-3">
                             <span>Name</span>
                             <span class="text-sm">Job</span>
@@ -249,7 +249,7 @@
                         </p>
                     </blockquote>
                     <div class="flex items-center justify-center">
-                        <img src="/KawanWEB/PhotoProperty/profile.png" alt="User Profile" class="rounded-full w-12 h-12">
+                        <img src="asset/home/profile.png" alt="User Profile" class="rounded-full w-12 h-12">
                         <div class="flex flex-col space-y-0.5 font-medium text-left ms-3">
                             <span>Name</span>
                             <span class="text-sm">Job</span>
@@ -266,7 +266,7 @@
             <div class="md:flex md:justify-between">
                 <div class="mb-6 md:mb-0">
                     <a href="KawanWEB/home.html" class="flex items-center">
-                        <img src="/KawanWEB/PhotoProperty/Logo only.png" alt="Kawan">
+                        <img src="asset/home/logoonly.png" alt="Kawan">
                         <span class="text-3xl font-bold ml-2">Kawan</span>
                     </a>
                 </div>
@@ -312,19 +312,19 @@
             </span>
             <div class="flex mt-4 sm:justify-center sm:mt-0">
                 <a href="https://instagram.com" class="text-black" target="_blank">
-                    <img src="/KawanWEB/PhotoProperty/instagram.png" alt="Instagram" class="h-6 w-6">
+                    <img src="asset/home//instagram.png" alt="Instagram" class="h-6 w-6">
                     <span class="sr-only">Instagram page</span>
                 </a>
                 <a href="https://x.com" class="ms-5">
-                    <img src="/KawanWEB/PhotoProperty/twitter.png" alt="Twitter/X" class="h-6 w-6">
+                    <img src="asset/home//twitter.png" alt="Twitter/X" class="h-6 w-6">
                     <span class="sr-only">Twitter/X page</span>
                 </a>
                 <a href="https://linkedin.com" class="ms-5">
-                    <img src="/KawanWEB/PhotoProperty/linkedin.png" alt="LinkedIn" class="h-6 w-6">
+                    <img src="asset/home//linkedin.png" alt="LinkedIn" class="h-6 w-6">
                     <span class="sr-only">LinkedIn page</span>
                 </a>
                 <a href="https://facebook.com" class="ms-5 me-10">
-                    <img src="/KawanWEB/PhotoProperty/facebook.png" alt="Facebook" class="h-6 w-6">
+                    <img src="asset/home/facebook.png" alt="Facebook" class="h-6 w-6">
                     <span class="sr-only">Facebook account</span>
                 </a>
             </div>
