@@ -17,7 +17,7 @@
         <div class="container">
             <div class="w-full px-4">
                 <div class="max-w-md mx-auto mb-16">
-                    <img src="asset/Logo.png" alt="Logo" width="250">
+                    <img src="asset/login/Logo.png" alt="Logo" width="250">
                     <h1 class="text-6xl my-4 font-Kanit font-semibold flex">LUPA PASSWORD</h1>
                     <p>Masukkan email yang berhubungan dengan akunmu dan kami akan mengirim email serta panduan untuk mengatur ulang kata sandimu.</p>
                     <form class="pt-4 flex space-x-4"> <!-- Added flex and space-x-4 -->

@@ -17,16 +17,16 @@
 <body>
     {{-- Daftar Akun Start --}}
     <section id="daftarakun" class="pt-24 pb-0">
-        <div class="container">
+        <div class="container mx-auto">
             <div class="w-full flex justify-center mb-2">
-                <img src="asset/Logo.png" alt="" width="200">
+                <img src="asset/login/Logo.png" alt="" width="200">
             </div>
     
             <div class="flex flex-wrap justify-center">
                 <div class="w-full px-4 lg:w-1/2 xl:w-1/3">
                     <div class="bg-white rounded-xl shadow-lg overflow-hidden mb-6 border-2 border-black">
                         <div class="py-8 px-8">
-                            <img src="asset/statusbar-3.png" alt="" class="mx-auto flex justify-center pb-2">
+                            <img src="asset/login/statusbar-3.png" alt="" class="mx-auto flex justify-center pb-2">
                             <div class="mb-0">
                                 <label for="whatsapp" class="block text-lg font-medium text-gray-900 dark:text-black font-Kanit">Whatsapp</label>
                                 <input type="text" id="whatsapp" class="font-Kanit bg-gray-50 border-2 border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-white dark:border-gray-600 dark:placeholder-gray-400 dark:text-black dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Masukan nomor WA kamu..." required />

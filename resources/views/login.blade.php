@@ -35,7 +35,7 @@
         <div class="container mx-auto flex">
             <div class="w-full lg:w-1/2 px-4">
                 <div class="w-full lg:w-2/3 p-6 mx-auto">
-                    <img src="asset/Logo.png" alt="Logo" width="250">
+                    <img src="asset/login/Logo.png" alt="Logo" width="250">
                     <h1 class="text-2xl my-4 font-Kanit font-semibold">Hai Selamat Datang Kawan!</h1>
                     <form>
                         <div class="grid gap-6 mb-2">
@@ -61,11 +61,12 @@
                 </div>
             </div>
             <div class="hidden lg:block w-1/2 flex items-center justify-center z-10">
-                <img src="asset/gambarlogin.png" alt="Gambar Login" class="mx-auto pt-20" width="500">
+                <img src="asset/login/gambarlogin.png" alt="Gambar Login" class="mx-auto pt-20" width="500">
             </div>
         </div>
     </section>
     {{-- Login End --}}
+    
 </body>
 
 </html>

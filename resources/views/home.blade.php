@@ -2,9 +2,14 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    @vite('resources/css/app.css')
+    <link rel="icon" type="image/png" sizes="32x32" href="asset/faviconlogo.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
     <title>Kawan | Homepage</title>
-    <link rel="stylesheet" href="style.css">
+    {{-- <link rel="stylesheet" href="style.css"> --}}
     
 </head>
 
@@ -15,7 +20,7 @@
             <!-- LOGO -->
             <div>
                 <a href="/KawanWEB/home.html" class="flex items-center pl-3">
-                    <img src="/KawanWEB/PhotoProperty/Logo only.png" alt="Kawan">
+                    <img src="asset/home/logoonly.png" alt="logo">
                     <span class="text-3xl font-bold ml-2">Kawan</span>
                 </a>
             </div>
@@ -29,9 +34,11 @@
 
             <!-- SIGN IN BUTTON -->
             <div class="md:flex items-center">
-                <button class="hidden md:inline-block px-4 py-2 me-5 bg-[#D87CA1] rounded-lg font-semibold hover:bg-blue-700 hover:text-white">
-                    SIGN IN
-                </button>
+                <a href="login">
+                    <button class="hidden md:inline-block px-4 py-2 me-5 bg-[#D87CA1] rounded-lg font-semibold hover:bg-blue-700 hover:text-white">
+                        SIGN IN
+                    </button>
+                </a>
             </div>
 
             <!-- HAMBURG ICON FOR SMALLER WINDOWS -->
